@@ -1,0 +1,7 @@
+{
+    "baseUrl" : "https://next.privat24.ua",
+    "ignoreTestFiles" : "**/cypress/integration/examples/**",
+    "viewportWidth": 1200,
+    "viewportHeight": 660
+}
+
