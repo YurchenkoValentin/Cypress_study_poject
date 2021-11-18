@@ -1,6 +1,6 @@
 /// <reference types = "Cypress" />
 
-/* Test comment update */
+/* Test comment update x2 */
 
 /* 
 it('By ID', () => {
