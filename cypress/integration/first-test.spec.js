@@ -1,4 +1,7 @@
 /// <reference types = "Cypress" />
+
+/* Test comment */
+
 /* 
 it('By ID', () => {
     cy.visit('https://www.facebook.com/')
