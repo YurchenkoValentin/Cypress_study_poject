@@ -13,4 +13,4 @@ it('', () => {
 it.only('', () => {
     cy.visit('https://next.privat24.ua/mobile?lang=en')
     cy.contains('SIGN IN', {matchCase: false});
-});
+}); 
