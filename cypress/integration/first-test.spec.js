@@ -48,4 +48,3 @@ it.only('Get, Find, Eq', () => {
     cy.visit("https://docs.cypress.io/api/commands/eq#Syntax")
     cy.get('.w-sidebar').find('ul').find('li').find('a').eq(0)
 });
-
